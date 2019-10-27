@@ -29,6 +29,11 @@ A multilevel network of orchestras, musicians and culture organizations. Fisrt
   was collected from september to december 2018. One should use the \code{multinets}
   package functions to properly plot this data.
 }
+\examples{
+orch_music_multilevel
+
+
+}
 \references{
 CREPALDE, Neylson (2019). Social Construction of Quality in an Orchestral
   Music Market. PhD Dissertation. Minas Gerais Federal University. Minas Gerais, Brazil.

@@ -31,5 +31,7 @@
 #' @references CREPALDE, Neylson (2019). Social Construction of Quality in an Orchestral
 #'   Music Market. PhD Dissertation. Minas Gerais Federal University. Minas Gerais, Brazil.
 #'
+#' @examples orch_music_multilevel
+#'
 #'
 "orch_music_multilevel"

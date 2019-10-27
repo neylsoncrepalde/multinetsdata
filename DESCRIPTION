@@ -4,8 +4,7 @@ Title: Multilevel Networks Datasets
 Version: 0.1.0
 Author: Neylson Crepalde
 Maintainer: Neylson Crepalde <neylsoncrepalde@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: A multilevel networks datasets package.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

@@ -10,7 +10,7 @@ This is a dataset package.
 
 0 errors | 0 warnings | 0 notes
 
-win-builder check: 0 errors | 0 warnings | 1 note
+win-builder check: 0 errors | 0 warnings | 2 notes
 
 **R Under development (unstable) (2017-09-12 r73242)**
 
