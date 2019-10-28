@@ -14,7 +14,7 @@ developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repo
 -----
 
 [![packageversion](https://img.shields.io/badge/Package%20version-0.1.0-orange.svg?style=flat-square)](commits/master)
-[![Last-changedate](https://img.shields.io/badge/last%20change-2019--10--27-yellowgreen.svg)](/commits/master)
+<!-- [![Last-changedate](https://img.shields.io/badge/last%20change-2019--10--28-yellowgreen.svg)](/commits/master) -->
 <!-- badges: end -->
 
 `multinetsdata` is an R package that provides a Multilevel Network
