@@ -24,9 +24,9 @@ Elaborated by the author.
 orch_music_multilevel
 }
 \description{
-A multilevel network of orchestras, musicians and culture organizations. Fisrt
+A multilevel network of orchestras, musicians and culture organizations. First
   published in Crepalde (2019). This is a real dataset. Data
-  was collected from september to december 2018. One should use the \code{multinets}
+  was collected from September to December 2018. One should use the \code{multinets}
   package functions to properly plot this data.
 }
 \examples{

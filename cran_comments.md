@@ -8,10 +8,18 @@ This is a dataset package.
 
 ## R CMD check results
 
-0 errors | 0 warnings | 0 notes
+0 errors | 0 warnings | 1 notes
+
+Non-standard file/directory found at top level:
+    ‘cran_comments.md’
 
 win-builder check: 0 errors | 0 warnings | 2 notes
 
-**R Under development (unstable) (2017-09-12 r73242)**
+checking CRAN incoming feasibility ... NOTE
+Maintainer: 'Neylson Crepalde <neylsoncrepalde@gmail.com>'
+
+checking top-level files ... NOTE
+Non-standard file/directory found at top level:
+  'cran_comments.md'
 
   * This is a new release.
